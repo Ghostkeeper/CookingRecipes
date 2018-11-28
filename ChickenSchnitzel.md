@@ -10,7 +10,7 @@ Algorithm
 ---------
 1. Bake:
 	- Pan: Big 7-ply DeMeyere
-	- Duration: 9 minutes
+	- Duration: 11 minutes
 	- Power: 6
 	- Oil: Medium
 
