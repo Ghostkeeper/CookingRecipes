@@ -10,7 +10,7 @@ Algorithm
 ---------
 1. Bake the sausages.
 	- Pan: Big 7-ply DeMeyere
-	- Duration: 10 minutes
+	- Duration: 12 minutes
 	- Power: 7
 	- Oil: Medium
 2. Turn every 3 minutes.
