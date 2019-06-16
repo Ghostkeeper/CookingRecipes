@@ -16,4 +16,4 @@ Algorithm
 
 Criticism
 ---------
-- Once in a while not cooked through. Slightly hotter? It doesn't burn very easily due to all the fat.
+- Once in a while not cooked through. Cook slightly longer? Cooking hotter is not an option.
