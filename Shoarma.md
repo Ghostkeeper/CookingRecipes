@@ -10,10 +10,10 @@ Algorithm
 ---------
 1. Bake:
 	- Pan: Big 7-ply DeMeyere
-	- Duration: 8 minutes
+	- Duration: 7 minutes
 	- Power: 9
 	- Oil: Medium
 
 Criticism
 ---------
-- Bakes slightly too much. Try shorter duration at higher power to keep it tender.
+- Tender but not crispy. To get out of local optimum, try at power 10 but shorter and turn often.
