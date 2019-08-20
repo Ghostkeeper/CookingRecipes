@@ -5,7 +5,12 @@ Fairly healthy dish. Contains no starch-based foods, although somewhat fatty.
 Ingredients
 -----------
 - 1 piece of chicken (~150g)
-- Half a bag of Italian wok vegetables (200g)
+- Half a bag of Italian wok vegetables (200g) containing equal parts of:
+  - Courgette
+  - Leek
+  - Onion
+  - Bell pepper
+  - Carrot
 - 4 slices of brie (75g)
 - 2 teaspoons of pesto
 
