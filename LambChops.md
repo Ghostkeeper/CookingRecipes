@@ -10,10 +10,10 @@ Algorithm
 ---------
 1. Bake:
 	- Pan: Big 7-ply DeMeyere
-	- Duration: 6 minutes
+	- Duration: 7 minutes
 	- Power: 8
 	- Oil: Light
 
 Criticism
 ---------
-- Once in a while not cooked through. Cook slightly longer? Cooking hotter is not an option.
+- It was slightly too well done. Started this with a hot pan. Maybe colder or shorter? But 6 minutes is too short.
