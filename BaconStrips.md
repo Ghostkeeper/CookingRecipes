@@ -10,12 +10,11 @@ Algorithm
 ---------
 1. Bake the bacon
 	- Pan: Big 7-ply DeMeyere
-	- Duration: 13 minutes
+	- Duration: 15 minutes
 	- Power: 7
 	- Oil: Medium
 2. Turn every 3 minutes.
 
 Criticism
 ---------
-* Should bake hotter or longer for more crunchiness.
-* Use less oil! This try was a mishap with the flagon.
+* Careful to keep turning to prevent burning it.
