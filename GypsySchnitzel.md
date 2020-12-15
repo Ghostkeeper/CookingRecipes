@@ -10,11 +10,11 @@ Algorithm
 ---------
 1. Bake:
 	- Pan: Big 7-ply DeMeyere
-	- Duration: 13 minutes
+	- Duration: 15 minutes
 	- Power: 6
-	- Oil: Light
+	- Oil: Medium
+2. Turn every 4 minutes or so.
 
 Criticism
 ---------
-- Lot of variation in burntness depending on oil? Needs tweaking.
-- Always becomes soft. Isn't there a way to get it crunchy? Adding oil only makes it more soggy, but maybe with significantly longer cooking?
+- Still quite soggy. Try less oil? Makes it more prone to burning though.
