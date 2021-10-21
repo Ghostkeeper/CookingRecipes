@@ -12,9 +12,11 @@ Algorithm
 	- Pan: Big 7-ply DeMeyere
 	- Duration: 12 minutes
 	- Power: 7
-	- Oil: Medium
+	- Oil: Sparse
 2. Turn every 3 minutes.
+
+
 
 Criticism
 ---------
-- Probably healthier to reduce oil. These leak a lot of fat themselves.
+- Difficult to get the ends properly cooked. Place the two ends towards the middle once in a while.
