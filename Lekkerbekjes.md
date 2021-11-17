@@ -10,11 +10,11 @@ Algorithm
 ---------
 1. Bake the lekkerbekjes
 	- Pan: Big 7-ply DeMeyere
-	- Duration: 7 minutes
-	- Power: 7
-	- Oil: Medium
-2. Turn 3 times.
+	- Duration: 20 minutes
+	- Power: 6
+	- Oil: Generous
+2. Turn 4 times.
 
 Criticism
 ---------
-* Needs to bake way longer at lower fire.
+* Use the lid to reduce cooking time and oil use?
