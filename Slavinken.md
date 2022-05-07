@@ -10,11 +10,13 @@ Algorithm
 ---------
 1. Bake the slavinken
 	- Pan: Big 7-ply DeMeyere
-	- Duration: 21 minutes
+	- Duration: 15 minutes
 	- Power: 6
 	- Oil: Medium
-2. Turn every 2 or 3 minutes. Use a spatula, not pinchers.
+2. Put a lid on the pan.
+3. Turn every 3 or 4 minutes. Use a spatula, not pinchers.
 
 Criticism
 ---------
-- Hard to prevent the sleeve from shredding. Maybe pre-heat the pan?
+- Sleeve slightly shreds, but not too bad.
+- Pink on the inside. Add a few minutes of time?
