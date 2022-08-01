@@ -5,8 +5,8 @@ Based on a recipe by my grandmother (yes, for real), with adjustments by my fath
 Ingredients
 -----------
 - 300g flour (575mL)
-- 175mL brown sugar, pressed
-- 175mL crystal sugar
+- 200g brown sugar (175mL, pressed)
+- 180g crystal sugar (175mL)
 - 200g butter
 - 1 medium egg
 - 1 tea spoon baking soda
