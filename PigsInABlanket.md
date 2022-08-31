@@ -6,6 +6,7 @@ Ingredients for 2 persons
 -------------------------
 - 6 sausages
 - 6 croissants from a can, pre-made but uncooked.
+- Mayonaise, ketchup and/or peanut sauce to serve with.
 
 Algorithm
 ---------
