@@ -8,14 +8,11 @@ Ingredients
 
 Algorithm
 ---------
-1. Bake the fish sticks
-	- Pan: Big 7-ply DeMeyere
-	- Duration: 8 minutes
-	- Power: 8
-	- Oil: Generous
-2. Turn often.
+1. Cook the fish sticks in the air fryer
+	- 200C
+	- 10 minutes
 
 Criticism
 ---------
-* Too much oil. Some sticks get soggy.
-* Not enough time to give every stick a spot in the centre, so some of them might not get cooked through. Turn often.
+* Not very crunchy. Maybe that's the low-fat reality, but maybe cooking it hotter helps.
+* Maybe stack them such that they can aerate their water better? Or maybe defrost them beforehand? Less soggy will be more crunchy.
