@@ -8,15 +8,10 @@ Ingredients
 
 Algorithm
 ---------
-1. Bake:
-	- Pan: Big 7-ply DeMeyere
-	- Duration: 14 minutes
-	- Power: 6
-	- Oil: Medium
+1. Air-fry:
+- 12 minutes
+- 180 degrees
 
 Criticism
 ---------
-- The cheaper version of this is easier to cook.
-- Tends to fall apart, leaking out the cheese.
-- The thick parts have not been cooked through entirely.
-- The breading will burn on the pan a bit, but it doesn't affect the taste yet.
+- Too long. Maybe 8 or 10 minutes?
